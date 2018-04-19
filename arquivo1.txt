@@ -1,4 +1,6 @@
 int multiplicacao(int x, int y){
-   
-   m=x*y;
+	return=x*y;
+}
+int soma( int x , int y){
+	return(X+Y);
 }
